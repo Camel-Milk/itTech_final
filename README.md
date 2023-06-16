@@ -1,1 +1,1 @@
-# itTech_final
+# it기술실무 기말과제
